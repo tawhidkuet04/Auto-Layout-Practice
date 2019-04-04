@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E02DD362255FBF5008D599A /* AMVSubscriptionVCAsset.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E02DD352255FBF5008D599A /* AMVSubscriptionVCAsset.xcassets */; };
 		4E12E16022548F1900042AA1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E15F22548F1900042AA1 /* AppDelegate.m */; };
 		4E12E16322548F1900042AA1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4E12E16222548F1900042AA1 /* ViewController.m */; };
 		4E12E16622548F1900042AA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E12E16422548F1900042AA1 /* Main.storyboard */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4E02DD352255FBF5008D599A /* AMVSubscriptionVCAsset.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = AMVSubscriptionVCAsset.xcassets; sourceTree = "<group>"; };
 		4E12E15B22548F1900042AA1 /* autoLayout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = autoLayout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E12E15E22548F1900042AA1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4E12E15F22548F1900042AA1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				4E12E15F22548F1900042AA1 /* AppDelegate.m */,
 				4E12E16122548F1900042AA1 /* ViewController.h */,
 				4E12E16222548F1900042AA1 /* ViewController.m */,
+				4E02DD352255FBF5008D599A /* AMVSubscriptionVCAsset.xcassets */,
 				4E12E16422548F1900042AA1 /* Main.storyboard */,
 				4E12E16722548F1B00042AA1 /* Assets.xcassets */,
 				4E12E16922548F1B00042AA1 /* LaunchScreen.storyboard */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4E12E16B22548F1B00042AA1 /* LaunchScreen.storyboard in Resources */,
+				4E02DD362255FBF5008D599A /* AMVSubscriptionVCAsset.xcassets in Resources */,
 				4E12E16822548F1B00042AA1 /* Assets.xcassets in Resources */,
 				4E12E16622548F1900042AA1 /* Main.storyboard in Resources */,
 			);
